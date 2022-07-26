@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face{
+    font-family: 'nasalization';
+    src: url('../fuentes/nasalization.otf');
+}
+body{
+    font-family: 'nasalization';
+}
+h1{
+    text-align: center;
+    padding: 1em;
+    text-transform: uppercase;
+}
+p{
+    padding: 1em;
+    text-align: justify;
+}
+li{
+    padding: 1em;
+}
